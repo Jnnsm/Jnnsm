@@ -10,7 +10,7 @@
 
 AI / Software Engineer with 5+ years building production ML and GenAI systems. Strong in LLMs, RAG, NLP, and AI automation (Python, FastAPI, GCP).
 
-Currently **Platform AI Engineer at TELUS Digital**, shipping client-facing AI platform capabilities — retrieval pipelines, LLM workflows, and governed production features.
+Currently Platform AI Engineer at TELUS Digital, working on System One model development and integrating those models into systems to reduce cost — alongside retrieval pipelines, LLM workflows, and governed production features.
 
 Based in Belo Horizonte, Brazil · open to remote.
 
