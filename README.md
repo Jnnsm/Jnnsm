@@ -1,17 +1,20 @@
-### Hi, I'm Eduardo Moreira
+<p align="center">
+  <img src="./header.svg" alt="Eduardo Moreira — Platform AI Engineer" width="100%" />
+</p>
 
-**Platform AI Engineer** — LLMs · RAG · Python · GCP
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jnnsm&label=Profile%20views&color=0e4f44&style=flat" alt="Profile views" />
+</p>
 
-I build production GenAI systems: retrieval pipelines, LLM workflows, and AI platform capabilities that move from business needs to governed production features.
+## About me
 
-**Currently:** Platform AI Engineer at TELUS Digital (Aug 2025 – Present)
+AI / Software Engineer with 5+ years building production ML and GenAI systems. Strong in LLMs, RAG, NLP, and AI automation (Python, FastAPI, GCP).
 
-**Resume site:** [jnnsm.github.io](https://jnnsm.github.io/)
+Currently **Platform AI Engineer at TELUS Digital**, shipping client-facing AI platform capabilities — retrieval pipelines, LLM workflows, and governed production features.
 
-**Links**
-- [LinkedIn](https://www.linkedin.com/in/eduardojddsm/)
-- [Email](mailto:edjusantos@gmail.com)
+Based in Belo Horizonte, Brazil · open to remote.
 
-```text
-Belo Horizonte, Brazil · Open to remote
-```
+## How to reach me
+
+- LinkedIn: [linkedin.com/in/eduardojddsm](https://www.linkedin.com/in/eduardojddsm/)
+- Email: [edjusantos@gmail.com](mailto:edjusantos@gmail.com)
