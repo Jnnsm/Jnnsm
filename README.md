@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.svg" alt="Eduardo Moreira — Platform AI Engineer" width="100%" />
+  <img src="./header.gif" alt="Eduardo Moreira — Platform AI Engineer" width="100%" />
 </p>
 
 <p align="center">
