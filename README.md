@@ -11,7 +11,6 @@ I build production GenAI systems: retrieval pipelines, LLM workflows, and AI pla
 **Links**
 - [LinkedIn](https://www.linkedin.com/in/eduardojddsm/)
 - [Email](mailto:edjusantos@gmail.com)
-- [GitHub](https://github.com/Jnnsm)
 
 ```text
 Belo Horizonte, Brazil · Open to remote
