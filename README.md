@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="./header.gif" alt="Eduardo Moreira — Platform AI Engineer" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jnnsm&label=Profile%20views&color=0e4f44&style=flat" alt="Profile views" />
+  <img src="./header.gif" alt="Eduardo Moreira — Platform AI Engineer" width="50%" />
 </p>
 
 ## About me
